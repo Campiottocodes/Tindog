@@ -9,7 +9,7 @@ This is a study case provide by Dr. Angela Yu.
 
 The challenge is to build out this website using bootstrap documentation, exemples and images to build our website .
 
-## Tecnolog used
+## Technology used
 
 - HTML
 - CSS
